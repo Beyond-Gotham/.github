@@ -1,4 +1,8 @@
-# 🌌 Beyond Gotham
+<p align="center">
+  <img src="assets/logo.png" alt="Beyond Gotham Logo" width="120"/>
+</p>
+
+# Beyond Gotham
 
 > **Open Source Intelligence & Investigation Platform** – modular, transparent, erweiterbar.  
 > Unsere Mission: eine neue Generation von Analyse- und Investigations-Technologien.
