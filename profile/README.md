@@ -24,7 +24,7 @@ Wir entwickeln Technologien, die **mächtig, offen und vertrauenswürdig** sind 
 
 ## 🧩 Kernprojekte
 
-### [InfoTerminal](https://github.com/Beyond-Gotham/InfoTerminal)  
+### [InfoTerminal](https://github.com/161sam/InfoTerminal)  
 > Modulares Framework für Datenintegration, Volltextsuche, Graph-Analysen, Dokumentenmanagement und KI.
 
 Funktionen (aktuelle & geplante):
